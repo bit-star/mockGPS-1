@@ -22,6 +22,8 @@
 		69B9FEF72268596C001FFA91 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		69B9FEFA2268596C001FFA91 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		69B9FEFC2268596D001FFA91 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		69B9FF022268599D001FFA91 /* Location.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = Location.gpx; sourceTree = "<group>"; };
+		69B9FF0322685ECB001FFA91 /* Location.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; name = Location.gpx; path = mockGPS/Location.gpx; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -38,6 +40,7 @@
 		69B9FEE42268596B001FFA91 = {
 			isa = PBXGroup;
 			children = (
+				69B9FF0322685ECB001FFA91 /* Location.gpx */,
 				69B9FEEF2268596B001FFA91 /* mockGPS */,
 				69B9FEEE2268596B001FFA91 /* Products */,
 			);
@@ -60,6 +63,7 @@
 				69B9FEF72268596C001FFA91 /* Assets.xcassets */,
 				69B9FEF92268596C001FFA91 /* LaunchScreen.storyboard */,
 				69B9FEFC2268596D001FFA91 /* Info.plist */,
+				69B9FF022268599D001FFA91 /* Location.gpx */,
 			);
 			path = mockGPS;
 			sourceTree = "<group>";
